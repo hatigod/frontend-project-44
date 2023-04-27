@@ -1,3 +1,6 @@
+/* eslint linebreak-style: "off" */
+/* eslint eol-last: "off" */
+
 import { getRandomNumber } from '../random.js';
 import run from '../index.js';
 

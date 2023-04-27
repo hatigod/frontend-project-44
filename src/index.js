@@ -1,3 +1,6 @@
+/* eslint linebreak-style: "off" */
+/* eslint eol-last: "off" */
+
 import readlineSync from 'readline-sync';
 
 export const attemptsCount = 3;
